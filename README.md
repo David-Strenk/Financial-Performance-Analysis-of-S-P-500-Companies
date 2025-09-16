@@ -15,9 +15,9 @@ How to Run the Project
 1. Open Financial_Dashboard.pbix for PowerBI dashboard
    or
 2. Open PowerBI template
-   2a. Open the financial_dashboard.pbit file.
-   2b. Power BI will prompt you to select the data source.
-   2c. Use cleaned_profitability_for_powerbi.csv file as data source.
-   2d. The dashboard will load with all the visualizations and filters ready for exploration.
+2a. Open the financial_dashboard.pbit file.
+2b. Power BI will prompt you to select the data source.
+2c. Use cleaned_profitability_for_powerbi.csv file as data source.
+2d. The dashboard will load with all the visualizations and filters ready for exploration.
 
 There is also Jupyter notebook for data preprocessing on original dataset - Financials.csv
